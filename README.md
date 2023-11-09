@@ -1,5 +1,3 @@
-# Quentin Paris
-
 ### About 
 Since 2020, I have been Associate Professor at the Computer Science Faculty of HSE University in Moscow. 
 
