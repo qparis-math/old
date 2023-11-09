@@ -1,5 +1,13 @@
 title: Quentin Paris
+author: Quentin Paris
+description: HSE University
+permalink: /:title/
+lang: "en"
 #logo: ...
-description: Associate Professor
-show_downloads: false
+
+#show_downloads: false
 theme: jekyll-theme-minimal
+
+navigation:
+ - (file:"README.md", icon: Home)
+ - (file:"seminar.md", icon: SLG Seminar)
